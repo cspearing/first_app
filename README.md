@@ -1,3 +1,5 @@
+This is the first application for tutorial blah blah blah
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
